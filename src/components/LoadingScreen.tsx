@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import logo from '../assets/Logo.png';
+import logo from './dist/Logo.png';
 interface LoadingScreenProps {
   onComplete: () => void;
 }
